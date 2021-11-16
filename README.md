@@ -14,8 +14,7 @@ These are my personal dotfiles. Most of this is just other people's config files
  - macOS Monterey 12.0.1 stable
  - [yabai](https://github.com/koekeishiya/yabai) - window manager
  - [skhd](https://github.com/koekeishiya/skhd) - hotkey manager
- - [Neovim](https://github.com/neovim/neovim)
- - ([NvChad](https://github.com/NvChad/NvChad) config) - editor 
+ - [Neovim](https://github.com/neovim/neovim) ([NvChad](https://github.com/NvChad/NvChad) config) - editor 
  - [Visual Studio Code](https://github.com/microsoft/vscode) (with vim keybinds) - secondary editor
  - [fish](https://fishshell.com) - shell
  - [Starship](https://starship.rs) - shell prompt
