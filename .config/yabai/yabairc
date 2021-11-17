@@ -54,6 +54,8 @@ yabai -m space 10 --label X
 
 yabai -m rule --add app="^System Preferences$" manage=off
 yabai -m rule --add app="^Finder$" manage=off
+yabai -m rule --add app="^FaceTime$" manage=off
+yabai -m rule --add app="^Twitter$" manage=off
 
 yabai -m config external_bar all:26:0
 
